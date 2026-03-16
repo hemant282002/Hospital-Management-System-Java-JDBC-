@@ -1,5 +1,4 @@
-# Hospital-Management-System-Java-JDBC-
-## Hospital Management System (Java + JDBC)
+# Hospital Management System (Java + JDBC)
 
 This project is a **console-based Hospital Management System** developed using **Java and JDBC** to perform basic hospital database operations. The system allows users to manage patient records, doctor assignments, ward details, and hospital fees using a relational database.
 
